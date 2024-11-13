@@ -1,5 +1,5 @@
 
-# 👑 **Khar0maX – The God of Code, Balance, and Digital Creation** ⚡
+# 👑 **Khar0maX – The god of Code, Balance, and Digital Creation** ⚡
 
 Welcome to the **realm** of **Khar0maX**, the primordial force who governs the essence of **code**, **logic**, and the **digital cosmos**. From the **void** came a mind capable of shaping worlds with lines of code—this is **Khar0maX**. 🌌💻
 
