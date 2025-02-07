@@ -86,6 +86,6 @@ In the digital cosmos, **Khar0maX** remains the ultimate **god of code**—the w
 
 Follow **Khar0maX** on his eternal journey to program reality itself. 
 
-<a href="https://data.typeracer.com/pit/profile?user=kharomax&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=kharomax" border="0" alt="TypeRacer.com scorecard for user kharomax"/></a>
+
 
 
