@@ -63,6 +63,30 @@ Each member of the flock learns to wield their terminal as both shield and sword
 
 ---
 
+## 🌐🚀🪙 **WHEN NOT HACKING: THE WEB3 PIONEER** 🦢💎⚡
+
+When WhiteDuck isn’t ghosting through firewalls or dissecting bytecode,  
+he roams the **frontier of decentralization** — the boundless terrain where cryptography meets creation. 🌍🔗✨  
+
+Here, he becomes not the breaker, but the builder —  
+architecting systems that breathe ingenuity, efficiency, and freedom into the networked world. ⚙️🧠🌈  
+
+- 🪙 **Smart Contracts:** Writing logic that governs digital worlds, from autonomous vaults to token economies.  
+- 🌐 **DApps & Protocols:** Crafting decentralized tools where transparency isn’t a choice — it’s the foundation.  
+- ⚡ **Innovation:** Experimenting with zero-knowledge proofs, cross-chain bridges, and next-gen consensus ideas.  
+- 🧭 **Philosophy:** Building what others fear to break; testing what others assume to be secure.  
+
+To WhiteDuck, **Web3 is not a buzzword** — it’s the evolution of digital freedom.  
+A rebellion against opacity, a call to reshape how code defines value, trust, and power. 🕊️💻💫  
+
+In the day, he forges.  
+In the night, he audits.  
+In both realms, he **seeks truth in code.** 🔥🌐💎  
+
+> 💬 “To pioneer Web3 is to program the next civilization — one block, one exploit, one fix at a time.” — *WhiteDuck, The Cyber Alchemist* 🦢⚙️
+
+---
+
 ## 🔮🌍✨ **THE PROPHECY OF THE DUCK** 💣🦢🌈
 
 Legend says that when the digital realm becomes too bloated, too corrupted by noise and greed, the **WhiteDuck** will descend again —
