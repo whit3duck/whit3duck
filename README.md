@@ -88,5 +88,5 @@ forever guiding those who seek truth in the noise. ⚡🕳️🌌
 ### 🧭🌐 **CONNECT WITH THE GHOST** 💫💬
 
 💬 **Status:** 🟢 Online – Operating in Silent Mode
-🌐 **Signal:** [github.com/WhiteDuck](#)
+🌐 **Signal:** [https://github.com/whit3duck](#)
 🚀 **Motto:** “Exploit the dark, preserve the light.” 🌌⚡🕊️
