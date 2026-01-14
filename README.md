@@ -1,9 +1,8 @@
 # 🦢💻🌈 **WhiteDuck – The Ghost of the Grid, Architect of Silent Solutions** 👾⚡🔥
 
-Welcome to the digital dominion of **WhiteDuck**, the spectral engineer who drifts between systems unseen — a cipher within the code, a shadow in the matrix.
-Where others see a firewall, he sees a puzzle.
-Where others see a broken product, he sees a system waiting to be *rebuilt correctly*. 💀🌐💫
+Welcome to the digital space of WhiteDuck — where a quiet engineer moves between systems, often unseen. A cipher in the code, a soft shadow in the matrix.
 
+Where others see a firewall, he sees a puzzle. Where others see a broken product, he sees a system waiting to be rebuilt with care and attention. 🌐✨
 He doesn’t just find flaws — **he designs the fixes**.
 He doesn’t only exploit — **he engineers solutions that last**.
 
