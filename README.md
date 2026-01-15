@@ -134,4 +134,6 @@ the **WhiteDuck** returns — not just to exploit…
 
 > 💬 “Break it. Understand it. Fix it. Ship it.”
 > — *WhiteDuck, Architect of the Grid* 🦢⚡
+>
+> <iframe src="https://github.com/sponsors/whit3duck/card" title="Sponsor whit3duck" height="225" width="600" style="border: 0;"></iframe>
 
