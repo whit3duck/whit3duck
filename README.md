@@ -49,7 +49,7 @@ Problem-solving is his signature. 🛠️🌌
 
 WhiteDuck’s reach spans the full lifecycle of software:
 
-1. 🪺🪶⚙️ **Duck Nest** — A quack-ronicle of my learning, missteps, and lessons learned along the way, from first concepts to hands-on practice.
+1. 🪺🪶⚙️ **Duck Pond** — A quack-ronicle of my learning, missteps, and lessons learned along the way, from first concepts to hands-on practice.
 2.  🛠️💥 **The Exploit Forge** — Where vulnerabilities are discovered, proven, and understood — never ignored.
 3. 🏗️💻 **The Builder’s Nest** — Where software is designed, implemented, and refined to solve real-world problems with elegant code.
 4. 🪞🌈 **The Mirror Net** — Where systems are observed in production, reflecting how users *actually* experience them.
